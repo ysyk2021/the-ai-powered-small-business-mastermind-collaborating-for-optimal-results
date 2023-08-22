@@ -1,5 +1,4 @@
-Developing an AI Strategy
-==================================================================================
+
 
 In this chapter, we will explore how small businesses can develop an AI strategy to successfully implement AI technology in their mastermind. We will discuss the key considerations and steps involved in developing an AI strategy.
 

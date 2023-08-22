@@ -1,5 +1,4 @@
-Historical Overview of AI in Small Business Mastermind
-================================================================================================================
+
 
 In this chapter, we will provide a historical overview of AI in small business mastermind. We will explore the evolution of AI technology and its impact on small businesses.
 

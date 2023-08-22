@@ -1,5 +1,4 @@
-Types of AI in Small Business Mastermind
-==================================================================================================
+
 
 In this chapter, we will explore the different types of AI that can be applied to small business mastermind. Understanding the different types of AI is important for small businesses as it helps them identify which type of AI is best suited to their needs.
 
