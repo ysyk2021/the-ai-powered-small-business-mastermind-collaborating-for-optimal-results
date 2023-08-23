@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore how AI works in small business mastermind. Understanding how AI works is important for small businesses as it helps them identify how they can leverage AI to improve their operations and achieve optimal results.
 
 Data Collection

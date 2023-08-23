@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly adopt AI technology, they must also consider the ethical implications of using this technology. In this chapter, we will explore some of the ethical considerations related to AI in small business mastermind and provide strategies for small businesses to address them.
 
 Bias and Discrimination

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will provide an overview of AI in small business mastermind. We will explore the historical context of AI, the different types of AI, and how AI works in small business mastermind.
 
 Historical Overview of AI in Small Business Mastermind

@@ -1,5 +1,4 @@
 
-
 As small businesses continue to adopt AI technology, the future of AI in small business mastermind is full of potential. In this chapter, we will explore some emerging trends in AI for small businesses and what they mean for the future of small business masterminds.
 
 Increased Automation

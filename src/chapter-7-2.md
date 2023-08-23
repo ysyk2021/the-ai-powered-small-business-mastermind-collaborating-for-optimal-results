@@ -1,5 +1,4 @@
 
-
 As small business mastermind groups increasingly rely on Artificial Intelligence (AI) to drive growth and success, it's important to ensure transparency and accountability in the use of these tools. This chapter will cover some key principles for managing AI in small business mastermind groups, with a focus on ensuring transparency and accountability.
 
 Establish clear guidelines and policies

@@ -1,5 +1,4 @@
 
-
 In this chapter, we will explore the potential for bias in AI technology and provide strategies for managing bias in small business mastermind.
 
 Understanding Bias in AI Technology
