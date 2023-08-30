@@ -8,3 +8,7 @@ We will also discuss the potential limitations and ethical considerations that c
 This book is intended for small business owners, managers, and employees who are interested in exploring the potential of AI-powered tools and collaboration to achieve optimal results. Whether you're looking to improve efficiencies, increase profitability, or enhance the customer experience, The AI-Powered Small Business Mastermind will provide valuable insights and ideas for leveraging technology and collaboration to achieve success.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
